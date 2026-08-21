@@ -1,7 +1,7 @@
 # BÁO CÁO BÀI TẬP: SÁNG TẠO — MODULE ETL RESUME PARSER (RIKKEI ACADEMY HR)
 
-* **Học viên:** Đường Phúc Thịnh
-* **Mã số sinh viên:** N24DTCN081
+* **Học viên:** Nguyễn lê Vũ
+* **Mã số sinh viên:** N24DTCN094
 * **Môn học:** Kỹ năng ứng dụng AI
 
 ---
